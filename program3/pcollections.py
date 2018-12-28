@@ -1,4 +1,3 @@
-# Submitter: ziany(Yang, Zian)
 import re, traceback, keyword
 
 def pnamedtuple(type_name, field_names, mutable= False):
