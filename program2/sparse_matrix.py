@@ -1,4 +1,3 @@
-# Submitter: ziany(Yang, Zian)
 import prompt
 from collections import defaultdict
 import inspect
